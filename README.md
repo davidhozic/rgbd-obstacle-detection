@@ -4,8 +4,6 @@ Seminarska naloga predmeta Robotski vid, na Fakulteti za elektrotehniko.
 Minimalna zahtevana Python verzija: 3.9
 
 David Hožič, Blaž Primšar.
-## Demo posnetki
-https://unilj-my.sharepoint.com/:u:/g/personal/dh8091_student_uni-lj_si/EWoU2wHQglNDqNV4Jxov_nIBkCs4JSGvzaVEfYwXv9VMig?e=BTNZmG
 
 ## Namestitev
 - PyTorch CUDA:
@@ -35,6 +33,7 @@ output_path = None # '<optional output folder path>'
 # Vhod, način delovanja, (opcijski) izhod
 demo.main(input_path=input_path, task=task, output_path=output_path)
 ```
+[**Prenos demo posnetkov**](https://unilj-my.sharepoint.com/personal/dh8091_student_uni-lj_si/_layouts/15/download.aspx?SourceUrl=%2Fpersonal%2Fdh8091%5Fstudent%5Funi%2Dlj%5Fsi%2FDocuments%2Fposnetki%5Frv%2Fdata%2Ezip)
 
 ## Konfiguracija parametrov
 Demonstracijska skripta pravzaprav vsebuje le konfiguracijo, ki jo potrebuje sistem za pravilno delovanje, in zanko za branje slik.
