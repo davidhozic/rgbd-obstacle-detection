@@ -4,6 +4,8 @@ Seminarska naloga predmeta Robotski vid, na Fakulteti za elektrotehniko.
 Minimalna zahtevana Python verzija: 3.9
 
 David Hožič, Blaž Primšar.
+## Demo posnetki
+https://unilj-my.sharepoint.com/:u:/g/personal/dh8091_student_uni-lj_si/EWoU2wHQglNDqNV4Jxov_nIBkCs4JSGvzaVEfYwXv9VMig?e=BTNZmG
 
 ## Namestitev
 - PyTorch CUDA:
