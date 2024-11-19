@@ -5,7 +5,7 @@ Minimalna zahtevana Python verzija: 3.9
 
 David Hožič, Blaž Primšar.
 
-[**Prenos demo posnetkov**](https://unilj-my.sharepoint.com/personal/dh8091_student_uni-lj_si/_layouts/15/download.aspx?SourceUrl=%2Fpersonal%2Fdh8091%5Fstudent%5Funi%2Dlj%5Fsi%2FDocuments%2Fposnetki%5Frv%2Fdata%2Ezip)
+[**Prenos demo posnetkov**](https://unilj-my.sharepoint.com/:u:/g/personal/dh8091_student_uni-lj_si/EWoU2wHQglNDqNV4Jxov_nIBkCs4JSGvzaVEfYwXv9VMig)
 
 ## Namestitev
 - PyTorch CUDA:
