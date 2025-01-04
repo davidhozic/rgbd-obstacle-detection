@@ -268,7 +268,8 @@ class Camera:
             else:
                 track_id = -1
 
-            obj_width = obj_height = 0
+            obj_width = (np.percentile(xc, 90, method="nearest") - np.percentile(xc, 10, method="nearest")).astype(np.int32)
+            obj_height = (np.percentile(yc, 90, method="nearest") - np.percentile(yc, 10, method="nearest")).astype(np.int32)
 
             # All the non filtered conditions are met, now update frame filtering counts
             detected_ids.add(track_id)
